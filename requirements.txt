@@ -4,7 +4,12 @@ Flask
 Flask-Cors
 gunicorn
 itsdangerous
+Jinja2
 joblib
+MarkupSafe
+numpy
 scikit-learn
 scipy
-numpy
+six
+Werkzeug
+wincertstore
